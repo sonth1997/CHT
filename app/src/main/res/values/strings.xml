@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quanlichitieu</string>
+    <string name="trend">Trend</string>
+    <string name="word">Word</string>
+    <string name="spend">Spend</string>
+    <string name="statistical">Statistical</string>
+    <string name="user">User</string>
+    <string name="add">Add</string>
+</resources>
